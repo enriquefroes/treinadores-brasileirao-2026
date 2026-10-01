@@ -1,0 +1,44 @@
+clube,treinador,tipo,inicio,fim,precisao,obs
+Palmeiras,Abel Ferreira,efetivo,2020-11-04,,exata,
+Bahia,Rogério Ceni,efetivo,2023-09-09,,exata,
+Mirassol,Rafael Guanaes,efetivo,2025-03-18,,exata,
+Athletico-PR,Odair Hellmann,efetivo,2025-05-22,,exata,
+Vitória,Jair Ventura,efetivo,2025-09-24,,exata,
+Bragantino,Vagner Mancini,efetivo,2025-10-30,,exata,
+Coritiba,Fernando Seabra,efetivo,2025-12-08,,exata,
+Atlético-MG,Jorge Sampaoli,efetivo,,2026-02-12,exata,início anterior a 2026
+Atlético-MG,Lucas Gonçalves,interino,2026-02-13,2026-02-25,exata,
+Atlético-MG,Eduardo Domínguez,efetivo,2026-02-26,,exata,
+Vasco,Fernando Diniz,efetivo,,2026-02-22,exata,início anterior a 2026
+Vasco,Bruno Lazaroni,interino,2026-02-23,2026-03-02,exata,1 jogo no Brasileirão: derrota para o Santos
+Vasco,Renato Gaúcho,efetivo,2026-03-03,2026-06-18,exata,
+Vasco,Pedro Emanuel,efetivo,2026-07-10,,exata,período sem treinador coincidiu com a pausa da Copa do Mundo
+Remo,Juan Carlos Osorio,efetivo,,2026-03-01,exata,início anterior a 2026
+Remo,Léo Condé,efetivo,2026-03-02,2026-09-15,início aproximado,"início em março, após a saída de Osorio"
+Remo,Thiago Carpini,efetivo,2026-09-16,,exata,
+Flamengo,Filipe Luís,efetivo,,2026-03-03,exata,início anterior a 2026
+Flamengo,Leonardo Jardim,efetivo,2026-03-04,,exata,
+São Paulo,Hernán Crespo,efetivo,,2026-03-09,exata,início anterior a 2026
+São Paulo,Roger Machado,efetivo,2026-03-10,2026-05-13,exata,
+São Paulo,Dorival Júnior,efetivo,2026-05-15,,exata,
+Cruzeiro,Tite,efetivo,,2026-03-15,exata,início anterior a 2026
+Cruzeiro,Wesley Carvalho,interino,2026-03-16,2026-03-22,exata,2 jogos no Brasileirão (1 empate e 1 derrota)
+Cruzeiro,Artur Jorge,efetivo,2026-03-23,,exata,
+Santos,Juan Pablo Vojvoda,efetivo,,2026-03-18,exata,início anterior a 2026
+Santos,Cuca,efetivo,2026-03-19,,exata,
+Botafogo,Martín Anselmi,efetivo,,2026-03-22,exata,início anterior a 2026
+Botafogo,Belão,interino,2026-03-23,2026-04-01,exata,1ª passagem como interino no Brasileirão
+Botafogo,Franclim Carvalho,efetivo,2026-04-02,2026-08-18,exata,
+Botafogo,Belão,interino,2026-08-19,2026-09-16,exata,2ª passagem como interino no Brasileirão
+Botafogo,Tite,efetivo,2026-09-17,,exata,
+Chapecoense,Gilmar Dal Pozzo,efetivo,,2026-04-03,exata,início anterior a 2026
+Chapecoense,Fábio Matias,efetivo,2026-04-05,2026-05-25,exata,
+Chapecoense,Rafael Lacerda,efetivo,2026-05-30,,exata,
+Corinthians,Dorival Júnior,efetivo,,2026-04-05,exata,início anterior a 2026
+Corinthians,Fernando Diniz,efetivo,2026-04-06,,exata,
+Fluminense,Luis Zubeldía,efetivo,,2026-08-13,exata,início anterior a 2026
+Fluminense,Marcão,efetivo,2026-08-14,,exata,
+Grêmio,Luís Castro,efetivo,2025-12-01,2026-09-13,exata,início em dezembro de 2025
+Grêmio,Renato Gaúcho,efetivo,2026-09-14,,exata,
+Internacional,Paulo Pezzolano,efetivo,,2026-09-20,exata,início anterior a 2026
+Internacional,Eduardo Baptista,efetivo,2026-09-24,,exata,

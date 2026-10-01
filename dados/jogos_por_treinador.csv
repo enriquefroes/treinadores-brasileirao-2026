@@ -1,0 +1,555 @@
+rodada,data,clube,treinador,tipo,mando,adversario,gols_pro,gols_contra,pontos
+1,2026-01-28,Athletico-PR,Odair Hellmann,efetivo,fora,Internacional,1,0,3
+3,2026-02-12,Athletico-PR,Odair Hellmann,efetivo,casa,Santos,2,1,3
+2,2026-02-19,Athletico-PR,Odair Hellmann,efetivo,casa,Corinthians,0,1,0
+4,2026-02-25,Athletico-PR,Odair Hellmann,efetivo,fora,Bragantino,1,1,1
+6,2026-03-15,Athletico-PR,Odair Hellmann,efetivo,fora,Fluminense,2,3,0
+7,2026-03-18,Athletico-PR,Odair Hellmann,efetivo,casa,Cruzeiro,2,1,3
+8,2026-03-22,Athletico-PR,Odair Hellmann,efetivo,casa,Coritiba,2,0,3
+5,2026-03-29,Athletico-PR,Odair Hellmann,efetivo,casa,Botafogo,4,1,3
+9,2026-04-01,Athletico-PR,Odair Hellmann,efetivo,fora,Bahia,0,3,0
+10,2026-04-05,Athletico-PR,Odair Hellmann,efetivo,fora,Atlético-MG,1,2,0
+11,2026-04-12,Athletico-PR,Odair Hellmann,efetivo,casa,Chapecoense,2,0,3
+12,2026-04-19,Athletico-PR,Odair Hellmann,efetivo,fora,Palmeiras,0,1,0
+13,2026-04-26,Athletico-PR,Odair Hellmann,efetivo,casa,Vitória,3,1,3
+14,2026-05-02,Athletico-PR,Odair Hellmann,efetivo,casa,Grêmio,0,0,1
+15,2026-05-10,Athletico-PR,Odair Hellmann,efetivo,fora,Vasco,0,1,0
+16,2026-05-17,Athletico-PR,Odair Hellmann,efetivo,casa,Flamengo,1,1,1
+17,2026-05-24,Athletico-PR,Odair Hellmann,efetivo,fora,Remo,2,1,3
+18,2026-05-30,Athletico-PR,Odair Hellmann,efetivo,casa,Mirassol,1,0,3
+19,2026-07-22,Athletico-PR,Odair Hellmann,efetivo,fora,São Paulo,2,1,3
+20,2026-07-25,Athletico-PR,Odair Hellmann,efetivo,casa,Internacional,2,0,3
+21,2026-07-30,Athletico-PR,Odair Hellmann,efetivo,fora,Corinthians,0,0,1
+22,2026-08-09,Athletico-PR,Odair Hellmann,efetivo,fora,Santos,2,0,3
+23,2026-08-15,Athletico-PR,Odair Hellmann,efetivo,casa,Bragantino,1,1,1
+24,2026-08-24,Athletico-PR,Odair Hellmann,efetivo,fora,Botafogo,3,2,3
+25,2026-08-30,Athletico-PR,Odair Hellmann,efetivo,casa,Fluminense,3,3,1
+26,2026-09-06,Athletico-PR,Odair Hellmann,efetivo,fora,Cruzeiro,1,3,0
+27,2026-09-11,Athletico-PR,Odair Hellmann,efetivo,fora,Coritiba,3,3,1
+28,2026-09-20,Athletico-PR,Odair Hellmann,efetivo,casa,Bahia,2,1,3
+1,2026-01-28,Atlético-MG,Jorge Sampaoli,efetivo,casa,Palmeiras,2,2,1
+2,2026-02-04,Atlético-MG,Jorge Sampaoli,efetivo,fora,Bragantino,0,1,0
+3,2026-02-11,Atlético-MG,Jorge Sampaoli,efetivo,casa,Remo,3,3,1
+4,2026-02-25,Atlético-MG,Lucas Gonçalves,interino,fora,Grêmio,1,2,0
+5,2026-03-11,Atlético-MG,Eduardo Domínguez,efetivo,casa,Internacional,1,0,3
+6,2026-03-14,Atlético-MG,Eduardo Domínguez,efetivo,fora,Vitória,0,2,0
+7,2026-03-18,Atlético-MG,Eduardo Domínguez,efetivo,casa,São Paulo,1,0,3
+8,2026-03-21,Atlético-MG,Eduardo Domínguez,efetivo,fora,Fluminense,0,1,0
+9,2026-04-02,Atlético-MG,Eduardo Domínguez,efetivo,fora,Chapecoense,4,0,3
+10,2026-04-05,Atlético-MG,Eduardo Domínguez,efetivo,casa,Athletico-PR,2,1,3
+11,2026-04-11,Atlético-MG,Eduardo Domínguez,efetivo,fora,Santos,0,1,0
+12,2026-04-19,Atlético-MG,Eduardo Domínguez,efetivo,fora,Coritiba,0,2,0
+13,2026-04-26,Atlético-MG,Eduardo Domínguez,efetivo,casa,Flamengo,0,4,0
+14,2026-05-02,Atlético-MG,Eduardo Domínguez,efetivo,fora,Cruzeiro,3,1,3
+15,2026-05-10,Atlético-MG,Eduardo Domínguez,efetivo,casa,Botafogo,1,1,1
+16,2026-05-16,Atlético-MG,Eduardo Domínguez,efetivo,casa,Mirassol,3,1,3
+17,2026-05-24,Atlético-MG,Eduardo Domínguez,efetivo,fora,Corinthians,0,1,0
+18,2026-05-31,Atlético-MG,Eduardo Domínguez,efetivo,fora,Vasco,1,0,3
+19,2026-07-21,Atlético-MG,Eduardo Domínguez,efetivo,casa,Bahia,1,1,1
+20,2026-07-26,Atlético-MG,Eduardo Domínguez,efetivo,fora,Palmeiras,2,1,3
+22,2026-08-08,Atlético-MG,Eduardo Domínguez,efetivo,fora,Remo,2,2,1
+23,2026-08-16,Atlético-MG,Eduardo Domínguez,efetivo,casa,Grêmio,3,0,3
+24,2026-08-22,Atlético-MG,Eduardo Domínguez,efetivo,fora,Internacional,0,0,1
+25,2026-08-29,Atlético-MG,Eduardo Domínguez,efetivo,casa,Vitória,2,1,3
+26,2026-09-05,Atlético-MG,Eduardo Domínguez,efetivo,fora,São Paulo,0,2,0
+27,2026-09-12,Atlético-MG,Eduardo Domínguez,efetivo,casa,Fluminense,3,1,3
+28,2026-09-19,Atlético-MG,Eduardo Domínguez,efetivo,casa,Chapecoense,1,1,1
+1,2026-01-28,Bahia,Rogério Ceni,efetivo,fora,Corinthians,2,1,3
+2,2026-02-05,Bahia,Rogério Ceni,efetivo,casa,Fluminense,1,1,1
+3,2026-02-11,Bahia,Rogério Ceni,efetivo,fora,Vasco,1,0,3
+5,2026-03-11,Bahia,Rogério Ceni,efetivo,casa,Vitória,1,1,1
+6,2026-03-15,Bahia,Rogério Ceni,efetivo,fora,Internacional,1,0,3
+7,2026-03-18,Bahia,Rogério Ceni,efetivo,casa,Bragantino,2,0,3
+8,2026-03-22,Bahia,Rogério Ceni,efetivo,fora,Remo,1,4,0
+9,2026-04-01,Bahia,Rogério Ceni,efetivo,casa,Athletico-PR,3,0,3
+10,2026-04-05,Bahia,Rogério Ceni,efetivo,casa,Palmeiras,1,2,0
+11,2026-04-11,Bahia,Rogério Ceni,efetivo,fora,Mirassol,2,1,3
+12,2026-04-19,Bahia,Rogério Ceni,efetivo,fora,Flamengo,0,2,0
+13,2026-04-25,Bahia,Rogério Ceni,efetivo,casa,Santos,2,2,1
+14,2026-05-03,Bahia,Rogério Ceni,efetivo,fora,São Paulo,2,2,1
+15,2026-05-09,Bahia,Rogério Ceni,efetivo,casa,Cruzeiro,1,2,0
+16,2026-05-17,Bahia,Rogério Ceni,efetivo,casa,Grêmio,1,1,1
+17,2026-05-25,Bahia,Rogério Ceni,efetivo,fora,Coritiba,2,3,0
+18,2026-05-30,Bahia,Rogério Ceni,efetivo,casa,Botafogo,2,1,3
+4,2026-07-17,Bahia,Rogério Ceni,efetivo,casa,Chapecoense,2,0,3
+19,2026-07-21,Bahia,Rogério Ceni,efetivo,fora,Atlético-MG,1,1,1
+20,2026-07-26,Bahia,Rogério Ceni,efetivo,casa,Corinthians,1,1,1
+21,2026-07-29,Bahia,Rogério Ceni,efetivo,fora,Fluminense,0,0,1
+22,2026-08-09,Bahia,Rogério Ceni,efetivo,casa,Vasco,0,0,1
+23,2026-08-16,Bahia,Rogério Ceni,efetivo,fora,Chapecoense,3,3,1
+24,2026-08-23,Bahia,Rogério Ceni,efetivo,fora,Vitória,2,0,3
+25,2026-08-30,Bahia,Rogério Ceni,efetivo,casa,Internacional,3,2,3
+26,2026-09-05,Bahia,Rogério Ceni,efetivo,fora,Bragantino,3,2,3
+27,2026-09-14,Bahia,Rogério Ceni,efetivo,casa,Remo,2,1,3
+28,2026-09-20,Bahia,Rogério Ceni,efetivo,fora,Athletico-PR,1,2,0
+1,2026-01-29,Botafogo,Martín Anselmi,efetivo,casa,Cruzeiro,4,0,3
+2,2026-02-04,Botafogo,Martín Anselmi,efetivo,fora,Grêmio,3,5,0
+3,2026-02-12,Botafogo,Martín Anselmi,efetivo,fora,Fluminense,0,1,0
+6,2026-03-14,Botafogo,Martín Anselmi,efetivo,casa,Flamengo,0,3,0
+7,2026-03-18,Botafogo,Martín Anselmi,efetivo,fora,Palmeiras,1,2,0
+8,2026-03-21,Botafogo,Martín Anselmi,efetivo,fora,Bragantino,2,1,3
+5,2026-03-29,Botafogo,Belão,interino,fora,Athletico-PR,1,4,0
+9,2026-04-01,Botafogo,Belão,interino,casa,Mirassol,3,2,3
+10,2026-04-04,Botafogo,Belão,interino,fora,Vasco,2,1,3
+11,2026-04-12,Botafogo,Franclim Carvalho,efetivo,casa,Coritiba,2,2,1
+12,2026-04-18,Botafogo,Franclim Carvalho,efetivo,fora,Chapecoense,4,1,3
+13,2026-04-25,Botafogo,Franclim Carvalho,efetivo,casa,Internacional,2,2,1
+14,2026-05-02,Botafogo,Franclim Carvalho,efetivo,casa,Remo,1,2,0
+15,2026-05-10,Botafogo,Franclim Carvalho,efetivo,fora,Atlético-MG,1,1,1
+16,2026-05-17,Botafogo,Franclim Carvalho,efetivo,casa,Corinthians,3,1,3
+17,2026-05-23,Botafogo,Franclim Carvalho,efetivo,fora,São Paulo,1,1,1
+18,2026-05-30,Botafogo,Franclim Carvalho,efetivo,fora,Bahia,1,2,0
+19,2026-07-16,Botafogo,Franclim Carvalho,efetivo,casa,Santos,2,1,3
+4,2026-07-23,Botafogo,Franclim Carvalho,efetivo,casa,Vitória,0,0,1
+20,2026-07-26,Botafogo,Franclim Carvalho,efetivo,fora,Cruzeiro,1,0,3
+22,2026-08-08,Botafogo,Franclim Carvalho,efetivo,casa,Fluminense,1,1,1
+23,2026-08-16,Botafogo,Franclim Carvalho,efetivo,fora,Vitória,0,1,0
+24,2026-08-24,Botafogo,Belão,interino,casa,Athletico-PR,2,3,0
+25,2026-08-30,Botafogo,Belão,interino,fora,Flamengo,0,3,0
+26,2026-09-06,Botafogo,Belão,interino,casa,Palmeiras,0,0,1
+27,2026-09-12,Botafogo,Belão,interino,casa,Bragantino,1,1,1
+21,2026-09-16,Botafogo,Belão,interino,casa,Grêmio,3,2,3
+28,2026-09-19,Botafogo,Tite,efetivo,fora,Mirassol,0,2,0
+1,2026-01-28,Bragantino,Vagner Mancini,efetivo,fora,Coritiba,1,0,3
+2,2026-02-04,Bragantino,Vagner Mancini,efetivo,casa,Atlético-MG,1,0,3
+3,2026-02-12,Bragantino,Vagner Mancini,efetivo,fora,Corinthians,0,2,0
+4,2026-02-25,Bragantino,Vagner Mancini,efetivo,casa,Athletico-PR,1,1,1
+5,2026-03-12,Bragantino,Vagner Mancini,efetivo,fora,Grêmio,1,1,1
+6,2026-03-15,Bragantino,Vagner Mancini,efetivo,casa,São Paulo,1,2,0
+7,2026-03-18,Bragantino,Vagner Mancini,efetivo,fora,Bahia,0,2,0
+8,2026-03-21,Bragantino,Vagner Mancini,efetivo,casa,Botafogo,1,2,0
+9,2026-04-02,Bragantino,Vagner Mancini,efetivo,casa,Flamengo,3,0,3
+10,2026-04-05,Bragantino,Vagner Mancini,efetivo,fora,Mirassol,1,0,3
+11,2026-04-12,Bragantino,Vagner Mancini,efetivo,fora,Cruzeiro,1,2,0
+12,2026-04-19,Bragantino,Vagner Mancini,efetivo,casa,Remo,4,2,3
+13,2026-04-26,Bragantino,Vagner Mancini,efetivo,casa,Palmeiras,0,1,0
+14,2026-05-03,Bragantino,Vagner Mancini,efetivo,fora,Chapecoense,2,1,3
+15,2026-05-10,Bragantino,Vagner Mancini,efetivo,fora,Santos,0,2,0
+16,2026-05-17,Bragantino,Vagner Mancini,efetivo,casa,Vitória,2,0,3
+17,2026-05-24,Bragantino,Vagner Mancini,efetivo,fora,Vasco,3,0,3
+18,2026-05-31,Bragantino,Vagner Mancini,efetivo,casa,Internacional,3,1,3
+19,2026-07-17,Bragantino,Vagner Mancini,efetivo,fora,Fluminense,1,1,1
+20,2026-07-26,Bragantino,Vagner Mancini,efetivo,casa,Coritiba,0,0,1
+22,2026-08-09,Bragantino,Vagner Mancini,efetivo,casa,Corinthians,0,2,0
+23,2026-08-15,Bragantino,Vagner Mancini,efetivo,fora,Athletico-PR,1,1,1
+24,2026-08-23,Bragantino,Vagner Mancini,efetivo,casa,Grêmio,1,0,3
+25,2026-08-29,Bragantino,Vagner Mancini,efetivo,fora,São Paulo,1,2,0
+26,2026-09-05,Bragantino,Vagner Mancini,efetivo,casa,Bahia,2,3,0
+27,2026-09-12,Bragantino,Vagner Mancini,efetivo,fora,Botafogo,1,1,1
+28,2026-09-20,Bragantino,Vagner Mancini,efetivo,fora,Flamengo,1,2,0
+1,2026-01-28,Chapecoense,Gilmar Dal Pozzo,efetivo,casa,Santos,4,2,3
+2,2026-02-05,Chapecoense,Gilmar Dal Pozzo,efetivo,fora,Vasco,1,1,1
+3,2026-02-11,Chapecoense,Gilmar Dal Pozzo,efetivo,casa,Coritiba,3,3,1
+5,2026-03-12,Chapecoense,Gilmar Dal Pozzo,efetivo,fora,São Paulo,0,2,0
+6,2026-03-16,Chapecoense,Gilmar Dal Pozzo,efetivo,casa,Grêmio,1,1,1
+7,2026-03-19,Chapecoense,Gilmar Dal Pozzo,efetivo,casa,Corinthians,0,0,1
+8,2026-03-22,Chapecoense,Gilmar Dal Pozzo,efetivo,fora,Internacional,0,2,0
+9,2026-04-02,Chapecoense,Gilmar Dal Pozzo,efetivo,casa,Atlético-MG,0,4,0
+10,2026-04-05,Chapecoense,Fábio Matias,efetivo,casa,Vitória,1,1,1
+11,2026-04-12,Chapecoense,Fábio Matias,efetivo,fora,Athletico-PR,0,2,0
+12,2026-04-18,Chapecoense,Fábio Matias,efetivo,casa,Botafogo,1,4,0
+13,2026-04-26,Chapecoense,Fábio Matias,efetivo,fora,Fluminense,1,2,0
+14,2026-05-03,Chapecoense,Fábio Matias,efetivo,casa,Bragantino,1,2,0
+15,2026-05-10,Chapecoense,Fábio Matias,efetivo,fora,Mirassol,1,1,1
+16,2026-05-17,Chapecoense,Fábio Matias,efetivo,casa,Remo,2,3,0
+17,2026-05-24,Chapecoense,Fábio Matias,efetivo,fora,Cruzeiro,1,2,0
+18,2026-05-31,Chapecoense,Rafael Lacerda,efetivo,fora,Palmeiras,0,1,0
+4,2026-07-17,Chapecoense,Rafael Lacerda,efetivo,fora,Bahia,0,2,0
+19,2026-07-22,Chapecoense,Rafael Lacerda,efetivo,casa,Flamengo,0,4,0
+20,2026-07-25,Chapecoense,Rafael Lacerda,efetivo,fora,Santos,2,2,1
+22,2026-08-08,Chapecoense,Rafael Lacerda,efetivo,fora,Coritiba,1,2,0
+23,2026-08-16,Chapecoense,Rafael Lacerda,efetivo,casa,Bahia,3,3,1
+24,2026-08-23,Chapecoense,Rafael Lacerda,efetivo,casa,São Paulo,1,0,3
+25,2026-08-30,Chapecoense,Rafael Lacerda,efetivo,fora,Grêmio,1,3,0
+26,2026-09-06,Chapecoense,Rafael Lacerda,efetivo,fora,Corinthians,2,1,3
+27,2026-09-12,Chapecoense,Rafael Lacerda,efetivo,casa,Internacional,1,2,0
+28,2026-09-19,Chapecoense,Rafael Lacerda,efetivo,fora,Atlético-MG,1,1,1
+1,2026-01-28,Corinthians,Dorival Júnior,efetivo,casa,Bahia,1,2,0
+3,2026-02-12,Corinthians,Dorival Júnior,efetivo,casa,Bragantino,2,0,3
+2,2026-02-19,Corinthians,Dorival Júnior,efetivo,fora,Athletico-PR,1,0,3
+4,2026-02-25,Corinthians,Dorival Júnior,efetivo,fora,Cruzeiro,1,1,1
+5,2026-03-11,Corinthians,Dorival Júnior,efetivo,casa,Coritiba,0,2,0
+6,2026-03-15,Corinthians,Dorival Júnior,efetivo,fora,Santos,1,1,1
+7,2026-03-19,Corinthians,Dorival Júnior,efetivo,fora,Chapecoense,0,0,1
+8,2026-03-22,Corinthians,Dorival Júnior,efetivo,casa,Flamengo,1,1,1
+9,2026-04-01,Corinthians,Dorival Júnior,efetivo,fora,Fluminense,1,3,0
+10,2026-04-05,Corinthians,Dorival Júnior,efetivo,casa,Internacional,0,1,0
+11,2026-04-12,Corinthians,Fernando Diniz,efetivo,casa,Palmeiras,0,0,1
+12,2026-04-18,Corinthians,Fernando Diniz,efetivo,fora,Vitória,0,0,1
+13,2026-04-26,Corinthians,Fernando Diniz,efetivo,casa,Vasco,1,0,3
+14,2026-05-03,Corinthians,Fernando Diniz,efetivo,fora,Mirassol,1,2,0
+15,2026-05-10,Corinthians,Fernando Diniz,efetivo,casa,São Paulo,3,2,3
+16,2026-05-17,Corinthians,Fernando Diniz,efetivo,fora,Botafogo,1,3,0
+17,2026-05-24,Corinthians,Fernando Diniz,efetivo,casa,Atlético-MG,1,0,3
+18,2026-05-30,Corinthians,Fernando Diniz,efetivo,fora,Grêmio,3,1,3
+19,2026-07-23,Corinthians,Fernando Diniz,efetivo,casa,Remo,3,0,3
+20,2026-07-26,Corinthians,Fernando Diniz,efetivo,fora,Bahia,1,1,1
+21,2026-07-30,Corinthians,Fernando Diniz,efetivo,casa,Athletico-PR,0,0,1
+22,2026-08-09,Corinthians,Fernando Diniz,efetivo,fora,Bragantino,2,0,3
+23,2026-08-16,Corinthians,Fernando Diniz,efetivo,casa,Cruzeiro,1,2,0
+24,2026-08-23,Corinthians,Fernando Diniz,efetivo,fora,Coritiba,1,2,0
+25,2026-08-30,Corinthians,Fernando Diniz,efetivo,casa,Santos,0,1,0
+26,2026-09-06,Corinthians,Fernando Diniz,efetivo,casa,Chapecoense,1,2,0
+27,2026-09-13,Corinthians,Fernando Diniz,efetivo,fora,Flamengo,1,2,0
+28,2026-09-20,Corinthians,Fernando Diniz,efetivo,casa,Fluminense,1,3,0
+1,2026-01-28,Coritiba,Fernando Seabra,efetivo,casa,Bragantino,0,1,0
+2,2026-02-05,Coritiba,Fernando Seabra,efetivo,fora,Cruzeiro,2,1,3
+3,2026-02-11,Coritiba,Fernando Seabra,efetivo,fora,Chapecoense,3,3,1
+4,2026-02-25,Coritiba,Fernando Seabra,efetivo,casa,São Paulo,0,1,0
+5,2026-03-11,Coritiba,Fernando Seabra,efetivo,fora,Corinthians,2,0,3
+6,2026-03-15,Coritiba,Fernando Seabra,efetivo,casa,Remo,1,0,3
+7,2026-03-18,Coritiba,Fernando Seabra,efetivo,fora,Mirassol,1,0,3
+8,2026-03-22,Coritiba,Fernando Seabra,efetivo,fora,Athletico-PR,0,2,0
+9,2026-04-01,Coritiba,Fernando Seabra,efetivo,casa,Vasco,1,1,1
+10,2026-04-04,Coritiba,Fernando Seabra,efetivo,casa,Fluminense,1,1,1
+11,2026-04-12,Coritiba,Fernando Seabra,efetivo,fora,Botafogo,2,2,1
+12,2026-04-19,Coritiba,Fernando Seabra,efetivo,casa,Atlético-MG,2,0,3
+13,2026-04-26,Coritiba,Fernando Seabra,efetivo,fora,Grêmio,0,1,0
+14,2026-05-02,Coritiba,Fernando Seabra,efetivo,fora,Vitória,1,4,0
+15,2026-05-09,Coritiba,Fernando Seabra,efetivo,casa,Internacional,2,2,1
+16,2026-05-17,Coritiba,Fernando Seabra,efetivo,fora,Santos,3,0,3
+17,2026-05-25,Coritiba,Fernando Seabra,efetivo,casa,Bahia,3,2,3
+18,2026-05-30,Coritiba,Fernando Seabra,efetivo,fora,Flamengo,0,3,0
+19,2026-07-22,Coritiba,Fernando Seabra,efetivo,casa,Palmeiras,1,3,0
+20,2026-07-26,Coritiba,Fernando Seabra,efetivo,fora,Bragantino,0,0,1
+21,2026-07-30,Coritiba,Fernando Seabra,efetivo,casa,Cruzeiro,0,1,0
+22,2026-08-08,Coritiba,Fernando Seabra,efetivo,casa,Chapecoense,2,1,3
+23,2026-08-15,Coritiba,Fernando Seabra,efetivo,fora,São Paulo,1,1,1
+24,2026-08-23,Coritiba,Fernando Seabra,efetivo,casa,Corinthians,2,1,3
+25,2026-08-31,Coritiba,Fernando Seabra,efetivo,fora,Remo,3,2,3
+26,2026-09-06,Coritiba,Fernando Seabra,efetivo,casa,Mirassol,1,2,0
+27,2026-09-11,Coritiba,Fernando Seabra,efetivo,casa,Athletico-PR,3,3,1
+28,2026-09-19,Coritiba,Fernando Seabra,efetivo,fora,Vasco,0,5,0
+1,2026-01-29,Cruzeiro,Tite,efetivo,fora,Botafogo,0,4,0
+2,2026-02-05,Cruzeiro,Tite,efetivo,casa,Coritiba,1,2,0
+3,2026-02-11,Cruzeiro,Tite,efetivo,fora,Mirassol,2,2,1
+4,2026-02-25,Cruzeiro,Tite,efetivo,casa,Corinthians,1,1,1
+5,2026-03-11,Cruzeiro,Tite,efetivo,fora,Flamengo,0,2,0
+6,2026-03-15,Cruzeiro,Tite,efetivo,casa,Vasco,3,3,1
+7,2026-03-18,Cruzeiro,Wesley Carvalho,interino,fora,Athletico-PR,1,2,0
+8,2026-03-22,Cruzeiro,Wesley Carvalho,interino,casa,Santos,0,0,1
+9,2026-04-01,Cruzeiro,Artur Jorge,efetivo,casa,Vitória,3,0,3
+10,2026-04-04,Cruzeiro,Artur Jorge,efetivo,fora,São Paulo,1,4,0
+11,2026-04-12,Cruzeiro,Artur Jorge,efetivo,casa,Bragantino,2,1,3
+12,2026-04-18,Cruzeiro,Artur Jorge,efetivo,casa,Grêmio,2,0,3
+13,2026-04-25,Cruzeiro,Artur Jorge,efetivo,fora,Remo,1,0,3
+14,2026-05-02,Cruzeiro,Artur Jorge,efetivo,casa,Atlético-MG,1,3,0
+15,2026-05-09,Cruzeiro,Artur Jorge,efetivo,fora,Bahia,2,1,3
+16,2026-05-16,Cruzeiro,Artur Jorge,efetivo,fora,Palmeiras,1,1,1
+17,2026-05-24,Cruzeiro,Artur Jorge,efetivo,casa,Chapecoense,2,1,3
+18,2026-05-31,Cruzeiro,Artur Jorge,efetivo,casa,Fluminense,1,1,1
+19,2026-07-22,Cruzeiro,Artur Jorge,efetivo,fora,Internacional,2,1,3
+20,2026-07-26,Cruzeiro,Artur Jorge,efetivo,casa,Botafogo,0,1,0
+21,2026-07-30,Cruzeiro,Artur Jorge,efetivo,fora,Coritiba,1,0,3
+22,2026-08-09,Cruzeiro,Artur Jorge,efetivo,casa,Mirassol,3,1,3
+23,2026-08-16,Cruzeiro,Artur Jorge,efetivo,fora,Corinthians,2,1,3
+24,2026-08-22,Cruzeiro,Artur Jorge,efetivo,casa,Flamengo,2,1,3
+25,2026-08-29,Cruzeiro,Artur Jorge,efetivo,fora,Vasco,1,3,0
+26,2026-09-06,Cruzeiro,Artur Jorge,efetivo,casa,Athletico-PR,3,1,3
+27,2026-09-12,Cruzeiro,Artur Jorge,efetivo,fora,Santos,1,2,0
+28,2026-09-20,Cruzeiro,Artur Jorge,efetivo,fora,Vitória,3,1,3
+1,2026-01-28,Flamengo,Filipe Luís,efetivo,fora,São Paulo,1,2,0
+2,2026-02-04,Flamengo,Filipe Luís,efetivo,casa,Internacional,1,1,1
+3,2026-02-10,Flamengo,Filipe Luís,efetivo,fora,Vitória,2,1,3
+5,2026-03-11,Flamengo,Leonardo Jardim,efetivo,casa,Cruzeiro,2,0,3
+6,2026-03-14,Flamengo,Leonardo Jardim,efetivo,fora,Botafogo,3,0,3
+7,2026-03-19,Flamengo,Leonardo Jardim,efetivo,casa,Remo,3,0,3
+8,2026-03-22,Flamengo,Leonardo Jardim,efetivo,fora,Corinthians,1,1,1
+9,2026-04-02,Flamengo,Leonardo Jardim,efetivo,fora,Bragantino,0,3,0
+10,2026-04-05,Flamengo,Leonardo Jardim,efetivo,casa,Santos,3,1,3
+11,2026-04-12,Flamengo,Leonardo Jardim,efetivo,fora,Fluminense,2,1,3
+12,2026-04-19,Flamengo,Leonardo Jardim,efetivo,casa,Bahia,2,0,3
+13,2026-04-26,Flamengo,Leonardo Jardim,efetivo,fora,Atlético-MG,4,0,3
+14,2026-05-03,Flamengo,Leonardo Jardim,efetivo,casa,Vasco,2,2,1
+15,2026-05-10,Flamengo,Leonardo Jardim,efetivo,fora,Grêmio,1,0,3
+16,2026-05-17,Flamengo,Leonardo Jardim,efetivo,fora,Athletico-PR,1,1,1
+17,2026-05-23,Flamengo,Leonardo Jardim,efetivo,casa,Palmeiras,0,3,0
+18,2026-05-30,Flamengo,Leonardo Jardim,efetivo,casa,Coritiba,3,0,3
+19,2026-07-22,Flamengo,Leonardo Jardim,efetivo,fora,Chapecoense,4,0,3
+20,2026-07-26,Flamengo,Leonardo Jardim,efetivo,casa,São Paulo,1,1,1
+21,2026-07-29,Flamengo,Leonardo Jardim,efetivo,fora,Internacional,1,1,1
+22,2026-08-09,Flamengo,Leonardo Jardim,efetivo,casa,Vitória,2,0,3
+23,2026-08-16,Flamengo,Leonardo Jardim,efetivo,fora,Mirassol,5,1,3
+24,2026-08-22,Flamengo,Leonardo Jardim,efetivo,fora,Cruzeiro,1,2,0
+25,2026-08-30,Flamengo,Leonardo Jardim,efetivo,casa,Botafogo,3,0,3
+4,2026-09-02,Flamengo,Leonardo Jardim,efetivo,casa,Mirassol,2,0,3
+26,2026-09-06,Flamengo,Leonardo Jardim,efetivo,fora,Remo,1,0,3
+27,2026-09-13,Flamengo,Leonardo Jardim,efetivo,casa,Corinthians,2,1,3
+28,2026-09-20,Flamengo,Leonardo Jardim,efetivo,casa,Bragantino,2,1,3
+1,2026-01-28,Fluminense,Luis Zubeldía,efetivo,casa,Grêmio,2,1,3
+2,2026-02-05,Fluminense,Luis Zubeldía,efetivo,fora,Bahia,1,1,1
+3,2026-02-12,Fluminense,Luis Zubeldía,efetivo,casa,Botafogo,1,0,3
+4,2026-02-25,Fluminense,Luis Zubeldía,efetivo,fora,Palmeiras,1,2,0
+5,2026-03-12,Fluminense,Luis Zubeldía,efetivo,fora,Remo,2,0,3
+6,2026-03-15,Fluminense,Luis Zubeldía,efetivo,casa,Athletico-PR,3,2,3
+7,2026-03-18,Fluminense,Luis Zubeldía,efetivo,fora,Vasco,2,3,0
+8,2026-03-21,Fluminense,Luis Zubeldía,efetivo,casa,Atlético-MG,1,0,3
+9,2026-04-01,Fluminense,Luis Zubeldía,efetivo,casa,Corinthians,3,1,3
+10,2026-04-04,Fluminense,Luis Zubeldía,efetivo,fora,Coritiba,1,1,1
+11,2026-04-12,Fluminense,Luis Zubeldía,efetivo,casa,Flamengo,1,2,0
+12,2026-04-19,Fluminense,Luis Zubeldía,efetivo,fora,Santos,3,2,3
+13,2026-04-26,Fluminense,Luis Zubeldía,efetivo,casa,Chapecoense,2,1,3
+14,2026-05-03,Fluminense,Luis Zubeldía,efetivo,fora,Internacional,0,2,0
+15,2026-05-09,Fluminense,Luis Zubeldía,efetivo,casa,Vitória,2,2,1
+16,2026-05-16,Fluminense,Luis Zubeldía,efetivo,casa,São Paulo,2,1,3
+17,2026-05-23,Fluminense,Luis Zubeldía,efetivo,fora,Mirassol,0,1,0
+18,2026-05-31,Fluminense,Luis Zubeldía,efetivo,fora,Cruzeiro,1,1,1
+19,2026-07-17,Fluminense,Luis Zubeldía,efetivo,casa,Bragantino,1,1,1
+20,2026-07-26,Fluminense,Luis Zubeldía,efetivo,fora,Grêmio,1,1,1
+21,2026-07-29,Fluminense,Luis Zubeldía,efetivo,casa,Bahia,0,0,1
+22,2026-08-08,Fluminense,Luis Zubeldía,efetivo,fora,Botafogo,1,1,1
+23,2026-08-15,Fluminense,Marcão,efetivo,casa,Palmeiras,3,2,3
+24,2026-08-22,Fluminense,Marcão,efetivo,casa,Remo,2,1,3
+25,2026-08-30,Fluminense,Marcão,efetivo,fora,Athletico-PR,3,3,1
+26,2026-09-05,Fluminense,Marcão,efetivo,casa,Vasco,1,0,3
+27,2026-09-12,Fluminense,Marcão,efetivo,fora,Atlético-MG,1,3,0
+28,2026-09-20,Fluminense,Marcão,efetivo,fora,Corinthians,3,1,3
+1,2026-01-28,Grêmio,Luís Castro,efetivo,fora,Fluminense,1,2,0
+2,2026-02-04,Grêmio,Luís Castro,efetivo,casa,Botafogo,5,3,3
+3,2026-02-11,Grêmio,Luís Castro,efetivo,fora,São Paulo,0,2,0
+4,2026-02-25,Grêmio,Luís Castro,efetivo,casa,Atlético-MG,2,1,3
+5,2026-03-12,Grêmio,Luís Castro,efetivo,casa,Bragantino,1,1,1
+6,2026-03-16,Grêmio,Luís Castro,efetivo,fora,Chapecoense,1,1,1
+7,2026-03-18,Grêmio,Luís Castro,efetivo,casa,Vitória,2,0,3
+8,2026-03-22,Grêmio,Luís Castro,efetivo,fora,Vasco,1,2,0
+9,2026-04-02,Grêmio,Luís Castro,efetivo,fora,Palmeiras,1,2,0
+10,2026-04-05,Grêmio,Luís Castro,efetivo,casa,Remo,0,0,1
+11,2026-04-11,Grêmio,Luís Castro,efetivo,fora,Internacional,0,0,1
+12,2026-04-18,Grêmio,Luís Castro,efetivo,fora,Cruzeiro,0,2,0
+13,2026-04-26,Grêmio,Luís Castro,efetivo,casa,Coritiba,1,0,3
+14,2026-05-02,Grêmio,Luís Castro,efetivo,fora,Athletico-PR,0,0,1
+15,2026-05-10,Grêmio,Luís Castro,efetivo,casa,Flamengo,0,1,0
+16,2026-05-17,Grêmio,Luís Castro,efetivo,fora,Bahia,1,1,1
+17,2026-05-23,Grêmio,Luís Castro,efetivo,casa,Santos,3,2,3
+18,2026-05-30,Grêmio,Luís Castro,efetivo,casa,Corinthians,1,3,0
+19,2026-07-17,Grêmio,Luís Castro,efetivo,fora,Mirassol,1,2,0
+20,2026-07-26,Grêmio,Luís Castro,efetivo,casa,Fluminense,1,1,1
+22,2026-08-08,Grêmio,Luís Castro,efetivo,casa,São Paulo,2,1,3
+23,2026-08-16,Grêmio,Luís Castro,efetivo,fora,Atlético-MG,0,3,0
+24,2026-08-23,Grêmio,Luís Castro,efetivo,fora,Bragantino,0,1,0
+25,2026-08-30,Grêmio,Luís Castro,efetivo,casa,Chapecoense,3,1,3
+26,2026-09-07,Grêmio,Luís Castro,efetivo,fora,Vitória,0,1,0
+27,2026-09-12,Grêmio,Luís Castro,efetivo,casa,Vasco,1,2,0
+21,2026-09-16,Grêmio,Renato Gaúcho,efetivo,fora,Botafogo,2,3,0
+28,2026-09-20,Grêmio,Renato Gaúcho,efetivo,casa,Palmeiras,0,0,1
+1,2026-01-28,Internacional,Paulo Pezzolano,efetivo,casa,Athletico-PR,0,1,0
+2,2026-02-04,Internacional,Paulo Pezzolano,efetivo,fora,Flamengo,1,1,1
+3,2026-02-12,Internacional,Paulo Pezzolano,efetivo,casa,Palmeiras,1,3,0
+4,2026-02-25,Internacional,Paulo Pezzolano,efetivo,fora,Remo,1,1,1
+5,2026-03-11,Internacional,Paulo Pezzolano,efetivo,fora,Atlético-MG,0,1,0
+6,2026-03-15,Internacional,Paulo Pezzolano,efetivo,casa,Bahia,0,1,0
+7,2026-03-18,Internacional,Paulo Pezzolano,efetivo,fora,Santos,2,1,3
+8,2026-03-22,Internacional,Paulo Pezzolano,efetivo,casa,Chapecoense,2,0,3
+9,2026-04-01,Internacional,Paulo Pezzolano,efetivo,casa,São Paulo,1,1,1
+10,2026-04-05,Internacional,Paulo Pezzolano,efetivo,fora,Corinthians,1,0,3
+11,2026-04-11,Internacional,Paulo Pezzolano,efetivo,casa,Grêmio,0,0,1
+12,2026-04-19,Internacional,Paulo Pezzolano,efetivo,casa,Mirassol,1,2,0
+13,2026-04-25,Internacional,Paulo Pezzolano,efetivo,fora,Botafogo,2,2,1
+14,2026-05-03,Internacional,Paulo Pezzolano,efetivo,casa,Fluminense,2,0,3
+15,2026-05-09,Internacional,Paulo Pezzolano,efetivo,fora,Coritiba,2,2,1
+16,2026-05-16,Internacional,Paulo Pezzolano,efetivo,casa,Vasco,4,1,3
+17,2026-05-23,Internacional,Paulo Pezzolano,efetivo,fora,Vitória,0,2,0
+18,2026-05-31,Internacional,Paulo Pezzolano,efetivo,fora,Bragantino,1,3,0
+19,2026-07-22,Internacional,Paulo Pezzolano,efetivo,casa,Cruzeiro,1,2,0
+20,2026-07-25,Internacional,Paulo Pezzolano,efetivo,fora,Athletico-PR,0,2,0
+21,2026-07-29,Internacional,Paulo Pezzolano,efetivo,casa,Flamengo,1,1,1
+22,2026-08-09,Internacional,Paulo Pezzolano,efetivo,fora,Palmeiras,0,0,1
+23,2026-08-17,Internacional,Paulo Pezzolano,efetivo,casa,Remo,1,1,1
+24,2026-08-22,Internacional,Paulo Pezzolano,efetivo,casa,Atlético-MG,0,0,1
+25,2026-08-30,Internacional,Paulo Pezzolano,efetivo,fora,Bahia,2,3,0
+26,2026-09-06,Internacional,Paulo Pezzolano,efetivo,casa,Santos,2,3,0
+27,2026-09-12,Internacional,Paulo Pezzolano,efetivo,fora,Chapecoense,2,1,3
+28,2026-09-19,Internacional,Paulo Pezzolano,efetivo,fora,São Paulo,0,2,0
+1,2026-01-29,Mirassol,Rafael Guanaes,efetivo,casa,Vasco,2,1,3
+2,2026-02-04,Mirassol,Rafael Guanaes,efetivo,fora,Remo,2,2,1
+3,2026-02-11,Mirassol,Rafael Guanaes,efetivo,casa,Cruzeiro,2,2,1
+5,2026-03-10,Mirassol,Rafael Guanaes,efetivo,casa,Santos,2,2,1
+6,2026-03-15,Mirassol,Rafael Guanaes,efetivo,fora,Palmeiras,0,1,0
+7,2026-03-18,Mirassol,Rafael Guanaes,efetivo,casa,Coritiba,0,1,0
+8,2026-03-22,Mirassol,Rafael Guanaes,efetivo,fora,Vitória,0,1,0
+9,2026-04-01,Mirassol,Rafael Guanaes,efetivo,fora,Botafogo,2,3,0
+10,2026-04-05,Mirassol,Rafael Guanaes,efetivo,casa,Bragantino,0,1,0
+11,2026-04-11,Mirassol,Rafael Guanaes,efetivo,casa,Bahia,1,2,0
+12,2026-04-19,Mirassol,Rafael Guanaes,efetivo,fora,Internacional,2,1,3
+13,2026-04-25,Mirassol,Rafael Guanaes,efetivo,fora,São Paulo,0,1,0
+14,2026-05-03,Mirassol,Rafael Guanaes,efetivo,casa,Corinthians,2,1,3
+15,2026-05-10,Mirassol,Rafael Guanaes,efetivo,casa,Chapecoense,1,1,1
+16,2026-05-16,Mirassol,Rafael Guanaes,efetivo,fora,Atlético-MG,1,3,0
+17,2026-05-23,Mirassol,Rafael Guanaes,efetivo,casa,Fluminense,1,0,3
+18,2026-05-30,Mirassol,Rafael Guanaes,efetivo,fora,Athletico-PR,0,1,0
+19,2026-07-17,Mirassol,Rafael Guanaes,efetivo,casa,Grêmio,2,1,3
+20,2026-07-25,Mirassol,Rafael Guanaes,efetivo,fora,Vasco,1,1,1
+21,2026-07-29,Mirassol,Rafael Guanaes,efetivo,casa,Remo,2,1,3
+22,2026-08-09,Mirassol,Rafael Guanaes,efetivo,fora,Cruzeiro,1,3,0
+23,2026-08-16,Mirassol,Rafael Guanaes,efetivo,casa,Flamengo,1,5,0
+24,2026-08-23,Mirassol,Rafael Guanaes,efetivo,fora,Santos,1,1,1
+25,2026-08-30,Mirassol,Rafael Guanaes,efetivo,casa,Palmeiras,1,1,1
+4,2026-09-02,Mirassol,Rafael Guanaes,efetivo,fora,Flamengo,0,2,0
+26,2026-09-06,Mirassol,Rafael Guanaes,efetivo,fora,Coritiba,2,1,3
+27,2026-09-13,Mirassol,Rafael Guanaes,efetivo,casa,Vitória,2,2,1
+28,2026-09-19,Mirassol,Rafael Guanaes,efetivo,casa,Botafogo,2,0,3
+1,2026-01-28,Palmeiras,Abel Ferreira,efetivo,fora,Atlético-MG,2,2,1
+2,2026-02-04,Palmeiras,Abel Ferreira,efetivo,casa,Vitória,5,1,3
+3,2026-02-12,Palmeiras,Abel Ferreira,efetivo,fora,Internacional,3,1,3
+4,2026-02-25,Palmeiras,Abel Ferreira,efetivo,casa,Fluminense,2,1,3
+5,2026-03-12,Palmeiras,Abel Ferreira,efetivo,fora,Vasco,1,2,0
+6,2026-03-15,Palmeiras,Abel Ferreira,efetivo,casa,Mirassol,1,0,3
+7,2026-03-18,Palmeiras,Abel Ferreira,efetivo,casa,Botafogo,2,1,3
+8,2026-03-21,Palmeiras,Abel Ferreira,efetivo,fora,São Paulo,1,0,3
+9,2026-04-02,Palmeiras,Abel Ferreira,efetivo,casa,Grêmio,2,1,3
+10,2026-04-05,Palmeiras,Abel Ferreira,efetivo,fora,Bahia,2,1,3
+11,2026-04-12,Palmeiras,Abel Ferreira,efetivo,fora,Corinthians,0,0,1
+12,2026-04-19,Palmeiras,Abel Ferreira,efetivo,casa,Athletico-PR,1,0,3
+13,2026-04-26,Palmeiras,Abel Ferreira,efetivo,fora,Bragantino,1,0,3
+14,2026-05-02,Palmeiras,Abel Ferreira,efetivo,casa,Santos,1,1,1
+15,2026-05-10,Palmeiras,Abel Ferreira,efetivo,fora,Remo,1,1,1
+16,2026-05-16,Palmeiras,Abel Ferreira,efetivo,casa,Cruzeiro,1,1,1
+17,2026-05-23,Palmeiras,Abel Ferreira,efetivo,fora,Flamengo,3,0,3
+18,2026-05-31,Palmeiras,Abel Ferreira,efetivo,casa,Chapecoense,1,0,3
+19,2026-07-22,Palmeiras,Abel Ferreira,efetivo,fora,Coritiba,3,1,3
+20,2026-07-26,Palmeiras,Abel Ferreira,efetivo,casa,Atlético-MG,1,2,0
+21,2026-07-29,Palmeiras,Abel Ferreira,efetivo,fora,Vitória,4,0,3
+22,2026-08-09,Palmeiras,Abel Ferreira,efetivo,casa,Internacional,0,0,1
+23,2026-08-15,Palmeiras,Abel Ferreira,efetivo,fora,Fluminense,2,3,0
+24,2026-08-23,Palmeiras,Abel Ferreira,efetivo,casa,Vasco,4,1,3
+25,2026-08-30,Palmeiras,Abel Ferreira,efetivo,fora,Mirassol,1,1,1
+26,2026-09-06,Palmeiras,Abel Ferreira,efetivo,fora,Botafogo,0,0,1
+27,2026-09-12,Palmeiras,Abel Ferreira,efetivo,casa,São Paulo,2,0,3
+28,2026-09-20,Palmeiras,Abel Ferreira,efetivo,fora,Grêmio,0,0,1
+1,2026-01-28,Remo,Juan Carlos Osorio,efetivo,fora,Vitória,0,2,0
+2,2026-02-04,Remo,Juan Carlos Osorio,efetivo,casa,Mirassol,2,2,1
+3,2026-02-11,Remo,Juan Carlos Osorio,efetivo,fora,Atlético-MG,3,3,1
+4,2026-02-25,Remo,Juan Carlos Osorio,efetivo,casa,Internacional,1,1,1
+5,2026-03-12,Remo,Léo Condé,efetivo,casa,Fluminense,0,2,0
+6,2026-03-15,Remo,Léo Condé,efetivo,fora,Coritiba,0,1,0
+7,2026-03-19,Remo,Léo Condé,efetivo,fora,Flamengo,0,3,0
+8,2026-03-22,Remo,Léo Condé,efetivo,casa,Bahia,4,1,3
+9,2026-04-02,Remo,Léo Condé,efetivo,fora,Santos,0,2,0
+10,2026-04-05,Remo,Léo Condé,efetivo,fora,Grêmio,0,0,1
+11,2026-04-11,Remo,Léo Condé,efetivo,casa,Vasco,1,1,1
+12,2026-04-19,Remo,Léo Condé,efetivo,fora,Bragantino,2,4,0
+13,2026-04-25,Remo,Léo Condé,efetivo,casa,Cruzeiro,0,1,0
+14,2026-05-02,Remo,Léo Condé,efetivo,fora,Botafogo,2,1,3
+15,2026-05-10,Remo,Léo Condé,efetivo,casa,Palmeiras,1,1,1
+16,2026-05-17,Remo,Léo Condé,efetivo,fora,Chapecoense,3,2,3
+17,2026-05-24,Remo,Léo Condé,efetivo,casa,Athletico-PR,1,2,0
+18,2026-05-31,Remo,Léo Condé,efetivo,casa,São Paulo,1,0,3
+19,2026-07-23,Remo,Léo Condé,efetivo,fora,Corinthians,0,3,0
+20,2026-07-26,Remo,Léo Condé,efetivo,casa,Vitória,2,0,3
+21,2026-07-29,Remo,Léo Condé,efetivo,fora,Mirassol,1,2,0
+22,2026-08-08,Remo,Léo Condé,efetivo,casa,Atlético-MG,2,2,1
+23,2026-08-17,Remo,Léo Condé,efetivo,fora,Internacional,1,1,1
+24,2026-08-22,Remo,Léo Condé,efetivo,fora,Fluminense,1,2,0
+25,2026-08-31,Remo,Léo Condé,efetivo,casa,Coritiba,2,3,0
+26,2026-09-06,Remo,Léo Condé,efetivo,casa,Flamengo,0,1,0
+27,2026-09-14,Remo,Léo Condé,efetivo,fora,Bahia,1,2,0
+28,2026-09-19,Remo,Thiago Carpini,efetivo,casa,Santos,1,2,0
+1,2026-01-28,Santos,Juan Pablo Vojvoda,efetivo,fora,Chapecoense,2,4,0
+2,2026-02-04,Santos,Juan Pablo Vojvoda,efetivo,casa,São Paulo,1,1,1
+3,2026-02-12,Santos,Juan Pablo Vojvoda,efetivo,fora,Athletico-PR,1,2,0
+4,2026-02-26,Santos,Juan Pablo Vojvoda,efetivo,casa,Vasco,2,1,3
+5,2026-03-10,Santos,Juan Pablo Vojvoda,efetivo,fora,Mirassol,2,2,1
+6,2026-03-15,Santos,Juan Pablo Vojvoda,efetivo,casa,Corinthians,1,1,1
+7,2026-03-18,Santos,Juan Pablo Vojvoda,efetivo,casa,Internacional,1,2,0
+8,2026-03-22,Santos,Cuca,efetivo,fora,Cruzeiro,0,0,1
+9,2026-04-02,Santos,Cuca,efetivo,casa,Remo,2,0,3
+10,2026-04-05,Santos,Cuca,efetivo,fora,Flamengo,1,3,0
+11,2026-04-11,Santos,Cuca,efetivo,casa,Atlético-MG,1,0,3
+12,2026-04-19,Santos,Cuca,efetivo,casa,Fluminense,2,3,0
+13,2026-04-25,Santos,Cuca,efetivo,fora,Bahia,2,2,1
+14,2026-05-02,Santos,Cuca,efetivo,fora,Palmeiras,1,1,1
+15,2026-05-10,Santos,Cuca,efetivo,casa,Bragantino,2,0,3
+16,2026-05-17,Santos,Cuca,efetivo,casa,Coritiba,0,3,0
+17,2026-05-23,Santos,Cuca,efetivo,fora,Grêmio,2,3,0
+18,2026-05-30,Santos,Cuca,efetivo,casa,Vitória,3,1,3
+19,2026-07-16,Santos,Cuca,efetivo,fora,Botafogo,1,2,0
+20,2026-07-25,Santos,Cuca,efetivo,casa,Chapecoense,2,2,1
+22,2026-08-09,Santos,Cuca,efetivo,casa,Athletico-PR,0,2,0
+23,2026-08-16,Santos,Cuca,efetivo,fora,Vasco,3,0,3
+24,2026-08-23,Santos,Cuca,efetivo,casa,Mirassol,1,1,1
+25,2026-08-30,Santos,Cuca,efetivo,fora,Corinthians,1,0,3
+26,2026-09-06,Santos,Cuca,efetivo,fora,Internacional,3,2,3
+27,2026-09-12,Santos,Cuca,efetivo,casa,Cruzeiro,2,1,3
+28,2026-09-19,Santos,Cuca,efetivo,fora,Remo,2,1,3
+1,2026-01-28,São Paulo,Hernán Crespo,efetivo,casa,Flamengo,2,1,3
+2,2026-02-04,São Paulo,Hernán Crespo,efetivo,fora,Santos,1,1,1
+3,2026-02-11,São Paulo,Hernán Crespo,efetivo,casa,Grêmio,2,0,3
+4,2026-02-25,São Paulo,Hernán Crespo,efetivo,fora,Coritiba,1,0,3
+5,2026-03-12,São Paulo,Roger Machado,efetivo,casa,Chapecoense,2,0,3
+6,2026-03-15,São Paulo,Roger Machado,efetivo,fora,Bragantino,2,1,3
+7,2026-03-18,São Paulo,Roger Machado,efetivo,fora,Atlético-MG,0,1,0
+8,2026-03-21,São Paulo,Roger Machado,efetivo,casa,Palmeiras,0,1,0
+9,2026-04-01,São Paulo,Roger Machado,efetivo,fora,Internacional,1,1,1
+10,2026-04-04,São Paulo,Roger Machado,efetivo,casa,Cruzeiro,4,1,3
+11,2026-04-11,São Paulo,Roger Machado,efetivo,fora,Vitória,0,2,0
+12,2026-04-18,São Paulo,Roger Machado,efetivo,fora,Vasco,1,2,0
+13,2026-04-25,São Paulo,Roger Machado,efetivo,casa,Mirassol,1,0,3
+14,2026-05-03,São Paulo,Roger Machado,efetivo,casa,Bahia,2,2,1
+15,2026-05-10,São Paulo,Roger Machado,efetivo,fora,Corinthians,2,3,0
+16,2026-05-16,São Paulo,Dorival Júnior,efetivo,fora,Fluminense,1,2,0
+17,2026-05-23,São Paulo,Dorival Júnior,efetivo,casa,Botafogo,1,1,1
+18,2026-05-31,São Paulo,Dorival Júnior,efetivo,fora,Remo,0,1,0
+19,2026-07-22,São Paulo,Dorival Júnior,efetivo,casa,Athletico-PR,1,2,0
+20,2026-07-26,São Paulo,Dorival Júnior,efetivo,fora,Flamengo,1,1,1
+22,2026-08-08,São Paulo,Dorival Júnior,efetivo,fora,Grêmio,1,2,0
+23,2026-08-15,São Paulo,Dorival Júnior,efetivo,casa,Coritiba,1,1,1
+24,2026-08-23,São Paulo,Dorival Júnior,efetivo,fora,Chapecoense,0,1,0
+25,2026-08-29,São Paulo,Dorival Júnior,efetivo,casa,Bragantino,2,1,3
+26,2026-09-05,São Paulo,Dorival Júnior,efetivo,casa,Atlético-MG,2,0,3
+27,2026-09-12,São Paulo,Dorival Júnior,efetivo,fora,Palmeiras,0,2,0
+28,2026-09-19,São Paulo,Dorival Júnior,efetivo,casa,Internacional,2,0,3
+1,2026-01-29,Vasco,Fernando Diniz,efetivo,fora,Mirassol,1,2,0
+2,2026-02-05,Vasco,Fernando Diniz,efetivo,casa,Chapecoense,1,1,1
+3,2026-02-11,Vasco,Fernando Diniz,efetivo,casa,Bahia,0,1,0
+4,2026-02-26,Vasco,Bruno Lazaroni,interino,fora,Santos,1,2,0
+5,2026-03-12,Vasco,Renato Gaúcho,efetivo,casa,Palmeiras,2,1,3
+6,2026-03-15,Vasco,Renato Gaúcho,efetivo,fora,Cruzeiro,3,3,1
+7,2026-03-18,Vasco,Renato Gaúcho,efetivo,casa,Fluminense,3,2,3
+8,2026-03-22,Vasco,Renato Gaúcho,efetivo,casa,Grêmio,2,1,3
+9,2026-04-01,Vasco,Renato Gaúcho,efetivo,fora,Coritiba,1,1,1
+10,2026-04-04,Vasco,Renato Gaúcho,efetivo,casa,Botafogo,1,2,0
+11,2026-04-11,Vasco,Renato Gaúcho,efetivo,fora,Remo,1,1,1
+12,2026-04-18,Vasco,Renato Gaúcho,efetivo,casa,São Paulo,2,1,3
+13,2026-04-26,Vasco,Renato Gaúcho,efetivo,fora,Corinthians,0,1,0
+14,2026-05-03,Vasco,Renato Gaúcho,efetivo,fora,Flamengo,2,2,1
+15,2026-05-10,Vasco,Renato Gaúcho,efetivo,casa,Athletico-PR,1,0,3
+16,2026-05-16,Vasco,Renato Gaúcho,efetivo,fora,Internacional,1,4,0
+17,2026-05-24,Vasco,Renato Gaúcho,efetivo,casa,Bragantino,0,3,0
+18,2026-05-31,Vasco,Renato Gaúcho,efetivo,casa,Atlético-MG,0,1,0
+19,2026-07-16,Vasco,Pedro Emanuel,efetivo,fora,Vitória,0,1,0
+20,2026-07-25,Vasco,Pedro Emanuel,efetivo,casa,Mirassol,1,1,1
+22,2026-08-09,Vasco,Pedro Emanuel,efetivo,fora,Bahia,0,0,1
+23,2026-08-16,Vasco,Pedro Emanuel,efetivo,casa,Santos,0,3,0
+24,2026-08-23,Vasco,Pedro Emanuel,efetivo,fora,Palmeiras,1,4,0
+25,2026-08-29,Vasco,Pedro Emanuel,efetivo,casa,Cruzeiro,3,1,3
+26,2026-09-05,Vasco,Pedro Emanuel,efetivo,fora,Fluminense,0,1,0
+27,2026-09-12,Vasco,Pedro Emanuel,efetivo,fora,Grêmio,2,1,3
+28,2026-09-19,Vasco,Pedro Emanuel,efetivo,casa,Coritiba,5,0,3
+1,2026-01-28,Vitória,Jair Ventura,efetivo,casa,Remo,2,0,3
+2,2026-02-04,Vitória,Jair Ventura,efetivo,fora,Palmeiras,1,5,0
+3,2026-02-10,Vitória,Jair Ventura,efetivo,casa,Flamengo,1,2,0
+5,2026-03-11,Vitória,Jair Ventura,efetivo,fora,Bahia,1,1,1
+6,2026-03-14,Vitória,Jair Ventura,efetivo,casa,Atlético-MG,2,0,3
+7,2026-03-18,Vitória,Jair Ventura,efetivo,fora,Grêmio,0,2,0
+8,2026-03-22,Vitória,Jair Ventura,efetivo,casa,Mirassol,1,0,3
+9,2026-04-01,Vitória,Jair Ventura,efetivo,fora,Cruzeiro,0,3,0
+10,2026-04-05,Vitória,Jair Ventura,efetivo,fora,Chapecoense,1,1,1
+11,2026-04-11,Vitória,Jair Ventura,efetivo,casa,São Paulo,2,0,3
+12,2026-04-18,Vitória,Jair Ventura,efetivo,casa,Corinthians,0,0,1
+13,2026-04-26,Vitória,Jair Ventura,efetivo,fora,Athletico-PR,1,3,0
+14,2026-05-02,Vitória,Jair Ventura,efetivo,casa,Coritiba,4,1,3
+15,2026-05-09,Vitória,Jair Ventura,efetivo,fora,Fluminense,2,2,1
+16,2026-05-17,Vitória,Jair Ventura,efetivo,fora,Bragantino,0,2,0
+17,2026-05-23,Vitória,Jair Ventura,efetivo,casa,Internacional,2,0,3
+18,2026-05-30,Vitória,Jair Ventura,efetivo,fora,Santos,1,3,0
+19,2026-07-16,Vitória,Jair Ventura,efetivo,casa,Vasco,1,0,3
+4,2026-07-23,Vitória,Jair Ventura,efetivo,fora,Botafogo,0,0,1
+20,2026-07-26,Vitória,Jair Ventura,efetivo,fora,Remo,0,2,0
+21,2026-07-29,Vitória,Jair Ventura,efetivo,casa,Palmeiras,0,4,0
+22,2026-08-09,Vitória,Jair Ventura,efetivo,fora,Flamengo,0,2,0
+23,2026-08-16,Vitória,Jair Ventura,efetivo,casa,Botafogo,1,0,3
+24,2026-08-23,Vitória,Jair Ventura,efetivo,casa,Bahia,0,2,0
+25,2026-08-29,Vitória,Jair Ventura,efetivo,fora,Atlético-MG,1,2,0
+26,2026-09-07,Vitória,Jair Ventura,efetivo,casa,Grêmio,1,0,3
+27,2026-09-13,Vitória,Jair Ventura,efetivo,fora,Mirassol,2,2,1
+28,2026-09-20,Vitória,Jair Ventura,efetivo,casa,Cruzeiro,1,3,0
